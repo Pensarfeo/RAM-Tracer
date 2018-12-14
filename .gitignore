@@ -1,0 +1,14 @@
+__pycache__
+.**/__pycache__
+./data
+.ipynb_checkpoints
+.vscode
+
+# output
+data
+literature
+output
+output
+output
+viewData.ipynb
+outputData*
